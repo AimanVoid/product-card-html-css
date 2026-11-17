@@ -1,0 +1,24 @@
+.product-card{
+    width: 210px;
+    border: 2px solid black;
+    height: 410px;
+    border-radius: 12px;
+}
+
+img{
+    border-radius: 12px;
+}
+
+.content{
+    padding-left: 22px;
+}
+
+h4{
+    font-size: 22px;
+}
+
+
+.desc{
+    font-size: 14px;
+    color: rgb(32, 31, 31);
+}
